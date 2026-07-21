@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "blockedVersions": [],
+
+  "contentIntegrity": {
+    "enforce": true,
+    "hash": "bebadddf499b21e23d2e4eae322632262b02017da3d1f2bfdf1bc289e6927e93"
+  }
+}
