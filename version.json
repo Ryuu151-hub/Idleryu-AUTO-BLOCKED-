@@ -1,0 +1,10 @@
+{
+  "latestVersion": "4.0.0",
+  "minimumVersion": "4.0.0",
+  "forceUpdate": false,
+  "maintenance": false,
+  "maintenanceMessage": "",
+  "blacklist": [],
+  "downloadUrl": "https://yourdomain.vercel.app/download",
+  "releaseDate": "2026-07-23T00:00:00Z"
+}
