@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "id": "welcome-400",
+  "priority": "normal",
+  "title": "Welcome",
+  "headline": "Welcome to my extension",
+  "message": "Thank you for using the latest version.",
+  "buttonText": "Continue",
+  "buttonUrl": "",
+  "dismissible": true,
+  "showOnce": true,
+  "versionFrom": "4.0.0",
+  "versionTo": "4.x"
+}
