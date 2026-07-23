@@ -1,0 +1,11 @@
+{
+  "algorithm": "Ed25519",
+  "keyId": "main-2026",
+  "publicKey": "PUBLIC_KEY_GOES_HERE",
+  "signatures": {
+    "integrity.json": "BASE64_SIGNATURE",
+    "version.json": "BASE64_SIGNATURE",
+    "announcement.json": "BASE64_SIGNATURE"
+  },
+  "generatedAt": "2026-07-23T00:00:00Z"
+}
