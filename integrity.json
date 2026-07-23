@@ -1,0 +1,22 @@
+{
+  "schema": 2,
+  "enabled": true,
+  "build": "4.0.0",
+  "generatedAt": "2026-07-23T00:00:00Z",
+  "hashAlgorithm": "SHA-256",
+  "files": {
+    "manifest.json": "SHA256_HASH",
+    "background.js": "SHA256_HASH",
+    "popup.html": "SHA256_HASH",
+    "popup.js": "SHA256_HASH",
+    "inject.js": "SHA256_HASH",
+    "content.js": "SHA256_HASH",
+    "dynamic_island.js": "SHA256_HASH"
+  },
+  "policy": {
+    "blockOnHashMismatch": true,
+    "blockOnMissingFile": true,
+    "blockOnExtraFiles": false,
+    "allowOfflineDays": 3
+  }
+}
